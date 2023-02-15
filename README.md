@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fabin-ziyad](https://github.com/fabin-ziyad)
+- 👨‍💻 All of my projects are available at [https://github.com/fabin-ziyad?tab=repositories](https://github.com/fabin-ziyad?tab=repositories)
 
 - 💬 Ask me about **Node js, Express js, MongoDB, Rest APIs**
 
