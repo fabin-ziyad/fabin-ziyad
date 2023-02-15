@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabin-ziyad&label=Profile%20views&color=0e75b6&style=flat" alt="fabin-ziyad" /> </p>
 
-- 🌱 I’m currently learning **React & AWS**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fabin-ziyad](https://github.com/fabin-ziyad)
 
@@ -13,8 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/fabinziyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fabinziyad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fabin-ziyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabin-ziyad" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19304474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19304474" height="30" width="40" /></a>
 <a href="https://instagram.com/fabin_ziyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabin_ziyad" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/fabin_ziyad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="fabin_ziyad" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/fabin-ziyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fabin-ziyad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
