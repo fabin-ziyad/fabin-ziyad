@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fabin-ziyad](https://github.com/fabin-ziyad)
 
-- 💬 Ask me about **Node js, Express js, MongoDB, Rest APIs**
+- 💬 Ask me about **Python, React js, Node js, Express js, MongoDB, Rest APIs**
 
 - 📫 How to reach me **fabinziyadjsd@gmail.com**
 
