@@ -50,7 +50,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabin-ziyad&show_icons=true&locale=en&layout=compact" alt="fabin-ziyad" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabin-ziyad&show_icons=true&locale=en" alt="fabin-ziyad" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabin-ziyad&" alt="fabin-ziyad" /></p>
 
 ---
 
