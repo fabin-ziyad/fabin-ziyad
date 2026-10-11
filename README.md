@@ -10,18 +10,33 @@
 
 ---
 
-<h1 align="center">Hey there 👋 I'm Fabin Ziyad</h1>
+<h1 align="center">Hey, I'm Fabin Ziyad 👋</h1>
+
+<h3 align="center">Software Engineer · Application Security · AI Automation</h3>
+
+<p align="center">
+  I build <strong>secure, scalable applications and intelligent automation workflows</strong>,
+  combining software engineering with cybersecurity and cloud technologies.
+</p>
+
+<p align="center">
+  I enjoy turning complex problems into practical solutions — from full-stack
+  applications and backend systems to automated testing, cloud security,
+  and AI-assisted development.
+</p>
 
 ---
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h2>👨‍💻 About Me</h2>
 
-<p align="left">
-- Software Engineer with expertise in <strong>full-stack development, AI-driven automation, no-code/low-code platforms, DevOps, automated testing, and cybersecurity</strong><br>
-- Passionate about building secure, scalable, and high-performance applications<br>
-- Experienced in <strong>React.js, Next.js, Node.js, Express, NestJS, Python, TypeScript, Cypress, Playwright MCP, AWS, and Lovable</strong><br>
-- Actively exploring AI, workflow automation, and innovative tech solutions
-</p>
+<ul>
+  <li>💻 Building full-stack applications, backend services, and developer tools.</li>
+  <li>🔐 Working across application security, vulnerability assessment, and secure development.</li>
+  <li>☁️ Exploring cloud infrastructure, AWS, IAM, and DevSecOps practices.</li>
+  <li>🤖 Using AI-assisted development and automation to streamline engineering workflows.</li>
+  <li>🧪 Building automated testing solutions with Playwright and Cypress.</li>
+  <li>🚀 Interested in practical technology that improves security, reliability, and productivity.</li>
+</ul>
 
 ---
 
@@ -55,4 +70,4 @@
 
 <h3 align="left">📫 Contact Me</h3>
 
-<p>You can reach me via <a href="mailto:youremail@example.com">email</a> or connect on <a href="https://www.linkedin.com/in/fabin-ziyad-439ba7224">LinkedIn</a>.</p>
+<p>You can reach me via <a href="mailto:fabinziyadjsd@gmail.com">email</a> or connect on <a href="https://www.linkedin.com/in/fabin-ziyad-439ba7224">LinkedIn</a>.</p>
