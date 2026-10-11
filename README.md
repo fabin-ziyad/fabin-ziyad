@@ -40,6 +40,27 @@
 
 ---
 
+<h2>🏢 Professional Work</h2>
+
+<p>
+  I work across software engineering and information security, contributing
+  to application development, security testing, cloud security, compliance
+  initiatives, and workflow automation.
+</p>
+
+<p>
+  My professional projects include private repositories and internal systems
+  that cannot be shared publicly.
+</p>
+
+<p>
+  <a href="https://github.com/fabin-cmyk">
+    <strong>Explore my professional GitHub profile →</strong>
+  </a>
+</p>
+
+---
+
 <h3 align="left">🛠 Skills & Tools</h3>
 
 <div align="left">
@@ -54,9 +75,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img src="https://lovable.dev/img/logo/lovable-icon-bg-dark.png" height="40" alt="lovable" title="Lovable No-Code" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" height="40" alt="AI" title="AI Automation" />
   <img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="automation" title="Workflow Automation" />
   <img src="https://img.icons8.com/ios-filled/50/000000/cyber-security.png" height="40" alt="cybersecurity" title="Cybersecurity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="cloudflare" title="Cloudflare" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="Amazon Web Services" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase" title="Supabase" />
+
+</div>
+<div align="left">
+  <h5 align="left">AI Tools</h5>
+  <img src="https://img.shields.io/badge/AI_Engineering-412991?style=flat&logo=openai&logoColor=white" height="40" alt="AI Engineering" title="AI Engineering" />
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat&logo=googlegemini&logoColor=white" height="40" alt="Large Language Models" title="LLMs" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" height="40" alt="Cursor" title="Cursor AI Editor" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" height="40" alt="Claude" title="Claude AI" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="40" alt="OpenAI" title="OpenAI Models" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white" height="40" alt="Gemini" title="Google Gemini" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" height="40" alt="GitHub Copilot" title="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/AI_Agents-0F766E?style=flat&logo=probot&logoColor=white" height="40" alt="AI Agents" title="AI Agents and Automation" />
 </div>
 
 ---
